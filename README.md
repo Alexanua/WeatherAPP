@@ -14,7 +14,7 @@ Detta projekt är ett enkelt väderapplikation som använder ett externt API fö
 
 ## Krav
 
-- Java JDK 20 eller senare.
+- Java JDK 20 .
 - Maven för beroendehantering.
 
 ## Maven Beroenden
